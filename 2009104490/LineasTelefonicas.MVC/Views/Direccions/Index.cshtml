@@ -1,0 +1,34 @@
+﻿@model IEnumerable<LineaTelefonica.Entities.Entities.Direccion>
+
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Index</h2>
+
+<p>
+    @Html.ActionLink("Create New", "Create")
+</p>
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.Referencia)
+        </th>
+        <th></th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.Referencia)
+        </td>
+        <td>
+            @Html.ActionLink("Edit", "Edit", new { id=item.DireccionId }) |
+            @Html.ActionLink("Details", "Details", new { id=item.DireccionId }) |
+            @Html.ActionLink("Delete", "Delete", new { id=item.DireccionId })
+        </td>
+    </tr>
+}
+
+</table>

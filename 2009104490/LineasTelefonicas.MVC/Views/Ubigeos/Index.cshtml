@@ -1,0 +1,52 @@
+﻿@model IEnumerable<LineaTelefonica.Entities.Entities.Ubigeo>
+
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Index</h2>
+
+<p>
+    @Html.ActionLink("Create New", "Create")
+</p>
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.Departamento.DepartamentoId)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Distrito.NombreDistrito)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Provincia.NombreProvincia)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.CodigoUbigeo)
+        </th>
+        <th></th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.Departamento.DepartamentoId)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Distrito.NombreDistrito)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Provincia.NombreProvincia)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.CodigoUbigeo)
+        </td>
+        <td>
+            @Html.ActionLink("Edit", "Edit", new { id=item.UbigeoId }) |
+            @Html.ActionLink("Details", "Details", new { id=item.UbigeoId }) |
+            @Html.ActionLink("Delete", "Delete", new { id=item.UbigeoId })
+        </td>
+    </tr>
+}
+
+</table>

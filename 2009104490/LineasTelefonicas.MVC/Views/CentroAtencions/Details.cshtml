@@ -1,0 +1,35 @@
+﻿@model LineaTelefonica.Entities.Entities.CentroAtencion
+
+@{
+    ViewBag.Title = "Details";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Details</h2>
+
+<div>
+    <h4>CentroAtencion</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.NombreCentroAtencion)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.NombreCentroAtencion)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.NumeroCentroAtencion)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.NumeroCentroAtencion)
+        </dd>
+
+    </dl>
+</div>
+<p>
+    @Html.ActionLink("Edit", "Edit", new { id = Model.CentroAtencionId }) |
+    @Html.ActionLink("Back to List", "Index")
+</p>

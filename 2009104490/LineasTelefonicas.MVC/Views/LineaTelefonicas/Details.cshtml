@@ -1,0 +1,43 @@
+﻿@model LineaTelefonica.Entities.Entities.LineaTelefonica
+
+@{
+    ViewBag.Title = "Details";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Details</h2>
+
+<div>
+    <h4>LineaTelefonica</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.AdministradorLinea.NombreAdministradorLinea)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.AdministradorLinea.NombreAdministradorLinea)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.TipoLinea.NombreTipoLinea)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.TipoLinea.NombreTipoLinea)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.NumeroLineaTelefonica)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.NumeroLineaTelefonica)
+        </dd>
+
+    </dl>
+</div>
+<p>
+    @Html.ActionLink("Edit", "Edit", new { id = Model.LineaTelefonicaId }) |
+    @Html.ActionLink("Back to List", "Index")
+</p>

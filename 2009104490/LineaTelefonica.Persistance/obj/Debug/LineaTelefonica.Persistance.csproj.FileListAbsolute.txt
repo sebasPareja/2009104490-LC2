@@ -1,0 +1,14 @@
+E:\Proyectos\Visual Studio Projects\MIGRATIONS\LineaTelefonica\LineaTelefonica.Persistance\bin\Debug\LineaTelefonica.Persistance.dll
+E:\Proyectos\Visual Studio Projects\MIGRATIONS\LineaTelefonica\LineaTelefonica.Persistance\bin\Debug\LineaTelefonica.Persistance.pdb
+E:\Proyectos\Visual Studio Projects\MIGRATIONS\LineaTelefonica\LineaTelefonica.Persistance\obj\Debug\LineaTelefonica.Persistance.csprojResolveAssemblyReference.cache
+E:\Proyectos\Visual Studio Projects\MIGRATIONS\LineaTelefonica\LineaTelefonica.Persistance\obj\Debug\LineaTelefonica.Persistance.dll
+E:\Proyectos\Visual Studio Projects\MIGRATIONS\LineaTelefonica\LineaTelefonica.Persistance\obj\Debug\LineaTelefonica.Persistance.pdb
+E:\Proyectos\Visual Studio Projects\MIGRATIONS\LineaTelefonica\LineaTelefonica.Persistance\bin\Debug\LineaTelefonica.Persistance.dll.config
+E:\Proyectos\Visual Studio Projects\MIGRATIONS\LineaTelefonica\LineaTelefonica.Persistance\bin\Debug\EntityFramework.dll
+E:\Proyectos\Visual Studio Projects\MIGRATIONS\LineaTelefonica\LineaTelefonica.Persistance\bin\Debug\EntityFramework.SqlServer.dll
+E:\Proyectos\Visual Studio Projects\MIGRATIONS\LineaTelefonica\LineaTelefonica.Persistance\bin\Debug\EntityFramework.xml
+E:\Proyectos\Visual Studio Projects\MIGRATIONS\LineaTelefonica\LineaTelefonica.Persistance\bin\Debug\EntityFramework.SqlServer.xml
+E:\Proyectos\Visual Studio Projects\MIGRATIONS\LineaTelefonica\LineaTelefonica.Persistance\bin\Debug\LineaTelefonica.Entities.dll
+E:\Proyectos\Visual Studio Projects\MIGRATIONS\LineaTelefonica\LineaTelefonica.Persistance\bin\Debug\LineaTelefonica.Entities.pdb
+E:\Proyectos\Visual Studio Projects\MIGRATIONS\LineaTelefonica\LineaTelefonica.Persistance\obj\Debug\LineaTelefonica.Persistance.Migrations.InitialModel.resources
+E:\Proyectos\Visual Studio Projects\MIGRATIONS\LineaTelefonica\LineaTelefonica.Persistance\obj\Debug\LineaTelefonica.Persistance.csproj.GenerateResource.Cache

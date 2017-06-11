@@ -1,0 +1,27 @@
+﻿@model LineaTelefonica.Entities.Entities.AdministradorEquipo
+
+@{
+    ViewBag.Title = "Details";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Details</h2>
+
+<div>
+    <h4>AdministradorEquipo</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.NombreAdministradorEquipo)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.NombreAdministradorEquipo)
+        </dd>
+
+    </dl>
+</div>
+<p>
+    @Html.ActionLink("Edit", "Edit", new { id = Model.AdministradorEquipoId }) |
+    @Html.ActionLink("Back to List", "Index")
+</p>

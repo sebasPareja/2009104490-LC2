@@ -1,0 +1,75 @@
+﻿@model LineaTelefonica.Entities.Entities.Venta
+
+@{
+    ViewBag.Title = "Details";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Details</h2>
+
+<div>
+    <h4>Venta</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.CentroAtencion.NombreCentroAtencion)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.CentroAtencion.NombreCentroAtencion)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Evaluacion.EvaluacionId)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Evaluacion.EvaluacionId)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.LineaTelefonica.LineaTelefonicaId)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.LineaTelefonica.LineaTelefonicaId)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.TipoPago.NombreTipoPago)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.TipoPago.NombreTipoPago)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Trabajador.TrabajadorId)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Trabajador.TrabajadorId)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Fecha)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Fecha)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Monto)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Monto)
+        </dd>
+
+    </dl>
+</div>
+<p>
+    @Html.ActionLink("Edit", "Edit", new { id = Model.VentaId }) |
+    @Html.ActionLink("Back to List", "Index")
+</p>

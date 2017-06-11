@@ -1,0 +1,27 @@
+E:\Proyectos\Visual Studio Projects\MIGRATIONS\LineaTelefonica\LineaTelefonica\bin\Debug\LineaTelefonica.exe.config
+E:\Proyectos\Visual Studio Projects\MIGRATIONS\LineaTelefonica\LineaTelefonica\bin\Debug\LineaTelefonica.exe
+E:\Proyectos\Visual Studio Projects\MIGRATIONS\LineaTelefonica\LineaTelefonica\bin\Debug\LineaTelefonica.pdb
+E:\Proyectos\Visual Studio Projects\MIGRATIONS\LineaTelefonica\LineaTelefonica\bin\Debug\LineaTelefonica.Entities.dll
+E:\Proyectos\Visual Studio Projects\MIGRATIONS\LineaTelefonica\LineaTelefonica\bin\Debug\LineaTelefonica.Persistance.dll
+E:\Proyectos\Visual Studio Projects\MIGRATIONS\LineaTelefonica\LineaTelefonica\bin\Debug\EntityFramework.dll
+E:\Proyectos\Visual Studio Projects\MIGRATIONS\LineaTelefonica\LineaTelefonica\bin\Debug\LineaTelefonica.Entities.pdb
+E:\Proyectos\Visual Studio Projects\MIGRATIONS\LineaTelefonica\LineaTelefonica\bin\Debug\LineaTelefonica.Persistance.pdb
+E:\Proyectos\Visual Studio Projects\MIGRATIONS\LineaTelefonica\LineaTelefonica\bin\Debug\EntityFramework.xml
+E:\Proyectos\Visual Studio Projects\MIGRATIONS\LineaTelefonica\LineaTelefonica\obj\Debug\2015137104.Console.csprojResolveAssemblyReference.cache
+E:\Proyectos\Visual Studio Projects\MIGRATIONS\LineaTelefonica\LineaTelefonica\obj\Debug\LineaTelefonica.exe
+E:\Proyectos\Visual Studio Projects\MIGRATIONS\LineaTelefonica\LineaTelefonica\obj\Debug\LineaTelefonica.pdb
+E:\Proyectos\Visual Studio Projects\MVC_WEB API\LineaTelefonica\LineaTelefonica\bin\Debug\LineaTelefonica.exe.config
+E:\Proyectos\Visual Studio Projects\MVC_WEB API\LineaTelefonica\LineaTelefonica\obj\Debug\LineaTelefonica.exe
+E:\Proyectos\Visual Studio Projects\MVC_WEB API\LineaTelefonica\LineaTelefonica\obj\Debug\LineaTelefonica.pdb
+E:\Proyectos\Visual Studio Projects\MVC_WEB API\LABORATORIOS\LineaTelefonica\LineaTelefonica\bin\Debug\LineaTelefonica.exe.config
+E:\Proyectos\Visual Studio Projects\MVC_WEB API\LABORATORIOS\LineaTelefonica\LineaTelefonica\bin\Debug\LineaTelefonica.exe
+E:\Proyectos\Visual Studio Projects\MVC_WEB API\LABORATORIOS\LineaTelefonica\LineaTelefonica\bin\Debug\LineaTelefonica.pdb
+E:\Proyectos\Visual Studio Projects\MVC_WEB API\LABORATORIOS\LineaTelefonica\LineaTelefonica\bin\Debug\LineaTelefonica.Entities.dll
+E:\Proyectos\Visual Studio Projects\MVC_WEB API\LABORATORIOS\LineaTelefonica\LineaTelefonica\bin\Debug\LineaTelefonica.Persistance.dll
+E:\Proyectos\Visual Studio Projects\MVC_WEB API\LABORATORIOS\LineaTelefonica\LineaTelefonica\bin\Debug\EntityFramework.dll
+E:\Proyectos\Visual Studio Projects\MVC_WEB API\LABORATORIOS\LineaTelefonica\LineaTelefonica\bin\Debug\LineaTelefonica.Entities.pdb
+E:\Proyectos\Visual Studio Projects\MVC_WEB API\LABORATORIOS\LineaTelefonica\LineaTelefonica\bin\Debug\LineaTelefonica.Persistance.pdb
+E:\Proyectos\Visual Studio Projects\MVC_WEB API\LABORATORIOS\LineaTelefonica\LineaTelefonica\bin\Debug\EntityFramework.xml
+E:\Proyectos\Visual Studio Projects\MVC_WEB API\LABORATORIOS\LineaTelefonica\LineaTelefonica\obj\Debug\2015137104.Console.csprojResolveAssemblyReference.cache
+E:\Proyectos\Visual Studio Projects\MVC_WEB API\LABORATORIOS\LineaTelefonica\LineaTelefonica\obj\Debug\LineaTelefonica.exe
+E:\Proyectos\Visual Studio Projects\MVC_WEB API\LABORATORIOS\LineaTelefonica\LineaTelefonica\obj\Debug\LineaTelefonica.pdb

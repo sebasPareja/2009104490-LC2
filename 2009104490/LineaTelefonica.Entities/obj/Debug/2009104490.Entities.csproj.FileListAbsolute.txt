@@ -1,0 +1,9 @@
+D:\rolandelac\Escritorio\sebas\2013121824\LineaTelefonica.Entities\bin\Debug\LineaTelefonica.Entities.dll
+D:\rolandelac\Escritorio\sebas\2013121824\LineaTelefonica.Entities\bin\Debug\LineaTelefonica.Entities.pdb
+D:\rolandelac\Escritorio\sebas\2013121824\LineaTelefonica.Entities\obj\Debug\LineaTelefonica.Entities.dll
+D:\rolandelac\Escritorio\sebas\2013121824\LineaTelefonica.Entities\obj\Debug\LineaTelefonica.Entities.pdb
+D:\rolandelac\Escritorio\sebas\2009104490\LineaTelefonica.Entities\bin\Debug\LineaTelefonica.Entities.dll
+D:\rolandelac\Escritorio\sebas\2009104490\LineaTelefonica.Entities\bin\Debug\LineaTelefonica.Entities.pdb
+D:\rolandelac\Escritorio\sebas\2009104490\LineaTelefonica.Entities\obj\Debug\2009104490.Entities.csprojResolveAssemblyReference.cache
+D:\rolandelac\Escritorio\sebas\2009104490\LineaTelefonica.Entities\obj\Debug\LineaTelefonica.Entities.dll
+D:\rolandelac\Escritorio\sebas\2009104490\LineaTelefonica.Entities\obj\Debug\LineaTelefonica.Entities.pdb

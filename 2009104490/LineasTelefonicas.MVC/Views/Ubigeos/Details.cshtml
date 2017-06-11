@@ -1,0 +1,51 @@
+﻿@model LineaTelefonica.Entities.Entities.Ubigeo
+
+@{
+    ViewBag.Title = "Details";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Details</h2>
+
+<div>
+    <h4>Ubigeo</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.Departamento.DepartamentoId)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Departamento.DepartamentoId)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Distrito.NombreDistrito)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Distrito.NombreDistrito)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Provincia.NombreProvincia)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Provincia.NombreProvincia)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.CodigoUbigeo)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.CodigoUbigeo)
+        </dd>
+
+    </dl>
+</div>
+<p>
+    @Html.ActionLink("Edit", "Edit", new { id = Model.UbigeoId }) |
+    @Html.ActionLink("Back to List", "Index")
+</p>
